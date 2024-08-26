@@ -1,7 +1,9 @@
 # **MATRIX**
 
 *👋 Hello there! It's @Matrix-Club.*
+
 *The Matrix Club was established on DD--MM--YYYY. By the first Heads of the club.*
+
 *This Github account is maintained by Members of the Matrix-Club.*
 
 ## **What We Do**
